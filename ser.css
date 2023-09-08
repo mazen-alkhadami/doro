@@ -181,7 +181,7 @@ justify-items: center;
     margin: 20px;
     padding: 20px;
     box-shadow: 2px 5px 10px#0b2239;
-  
+  display: inline-block;
   }
 
   .some img{
