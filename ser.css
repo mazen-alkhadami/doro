@@ -1,9 +1,10 @@
 @media screen and (min-width: 801px) and (max-width: 2000px) {
     #done {
         display: inline-flex;
-     
+       
 
     }
+
   }
   
   @media screen and (min-width: 601px) and (max-width: 800px) {
@@ -12,6 +13,7 @@
      
      
     }
+   
   }
   
 
@@ -186,10 +188,11 @@ justify-items: center;
 
   .some img{
 
-    width: 160px;
-    height: 160px;
+    width: 150px;
+    height: 150px;
     padding: 0px;
     margin: 0px;
+   
   
   }
   .some button{
